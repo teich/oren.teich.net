@@ -1,0 +1,13 @@
+{
+  "globals": {
+    "title": "Blog",
+    "description": "Blog.",
+    "name": "Oren Teich",
+    "email": "oren@teich.net",
+    "uri": "example.com",
+
+    "typekit": false,
+    "analytics": "123GAGA",
+    "disqus": false
+  }
+}
