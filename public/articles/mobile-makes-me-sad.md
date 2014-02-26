@@ -1,0 +1,7 @@
+Diving into the deep end, what's life about? I just want to be happy. For the sake of work, I define happy == flow. From [Wikipedia](http://en.wikipedia.org/wiki/Flow_(psychology)):
+
+> Flow is the mental state of operation in which a person performing an activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment in the process of the activity. In essence, flow is characterized by complete absorption in what one does."
+
+A day that has flow, even just an hour of it, is a day that I come home energized, engaged, feeling part of a larger life.
+
+Mobile right now is anti-flow. It's distracting. It's short bursts. It's focus sapping. It separates us from fully engaging with those around us or our work in front of us. It's a bit empty. These aren't intrinsic traits of mobile; rather they define the state of interaction from a brand new channel that we haven't evolved into. Over our history we've established certain strong structural concepts to engage and hone our ability to enter flow. Books that you hold and fill you vision and touch. Notebooks to write in and smell the ink. Typewriters to clack and absorb. We haven't created the mechanisms of flow around mobile devices. We will. We'll invent new interaction models. We'll establish new social norms. We will figure it out… at some point. In the meantime, mobile is anti-flow. Figure out how to leverage it and use it, and know when to banish it and just… flow.

@@ -1,13 +1,13 @@
 {
   "globals": {
-    "title": "Blog",
-    "description": "Blog.",
+    "title": "3Ps",
+    "description": "People, Process, Product",
     "name": "Oren Teich",
     "email": "oren@teich.net",
-    "uri": "example.com",
+    "uri": "oren.teich.net",
 
     "typekit": false,
-    "analytics": "123GAGA",
+    "analytics": false,
     "disqus": false
   }
 }
